@@ -1,7 +1,7 @@
 <?php
-define("DB_SERVER", "localhost");
-define("DB_USERNAME", "root");
-define("DB_PASSWORD", "");
+define("DB_SERVER", "demophpsignup2-server.mysql.database.azure.com");
+define("DB_USERNAME", "qfsfdbxaab");
+define("DB_PASSWORD", "ZH6M4CD8A10YW6G3$");
 define("DB_NAME", "registered");
 
 # Connection
